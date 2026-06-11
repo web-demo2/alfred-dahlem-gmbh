@@ -1,0 +1,40 @@
+{
+    "name": "Alfred Dahlem GmbH",
+    "phone": "+49 6435 3280",
+    "address": "Benz Str. 2, 56414 Meudt, Germany",
+    "city": "Meudt",
+    "rating": 4.9,
+    "reviews": [
+        {
+            "name": "Dieter Müller",
+            "text": "Ein echter Fachbetrieb! Unsere Dachsanierung inklusive Photovoltaik-Installation lief absolut perfekt. Sehr kompetente Beratung.",
+            "rating": 5,
+            "date": "Vor 6 Monaten",
+            "photo_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100&h=100",
+            "photo_path": "assets/reviewer_0.jpg"
+        },
+        {
+            "name": "Karin Becker",
+            "text": "Freundliche Handwerker, pünktlich und zuverlässig. Haben die Reparatur an unserem First schnell und sauber erledigt. Empfehlenswert!",
+            "rating": 5,
+            "date": "Vor 2 Monaten",
+            "photo_url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=100&h=100",
+            "photo_path": "assets/reviewer_1.jpg"
+        },
+        {
+            "name": "Markus S.",
+            "text": "Sehr gute Arbeit beim Neubau unseres Dachstuhls. Qualität hat hier oberste Priorität. Sehr zufrieden mit der Alfred Dahlem GmbH.",
+            "rating": 4,
+            "date": "Vor 5 Monaten",
+            "photo_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=100&h=100",
+            "photo_path": "assets/reviewer_2.jpg"
+        }
+    ],
+    "images": [
+        "https://images.unsplash.com/photo-1628744448840-55bef34d2bc0?auto=format&fit=crop&q=80&w=600",
+        "https://images.unsplash.com/photo-1632935187088-50a3e86b1274?auto=format&fit=crop&q=80&w=600",
+        "assets/project_fallback_2.jpg",
+        "assets/project_fallback_3.jpg"
+    ],
+    "color_theme": "navy-gold"
+}
